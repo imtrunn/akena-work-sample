@@ -1,15 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/",
-      "destination": "/work-sample-visual-akena",
+      "source": "/(.*)",
+      "destination": "https://welcometohongdaoportfolio.my.canva.site/work-sample-visual-akena",
       "permanent": false
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/:path*",
-      "destination": "https://welcometohongdaoportfolio.my.canva.site/:path*"
     }
   ]
 }
