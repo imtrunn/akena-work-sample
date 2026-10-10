@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://welcometohongdaoportfolio.my.canva.site/work-sample-visual-akena",
+      "permanent": false
+    }
+  ]
+}
